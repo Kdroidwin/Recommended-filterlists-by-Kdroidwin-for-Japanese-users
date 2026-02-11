@@ -1,2 +1,1 @@
-# Recommended-filter-lists-by-Kdroidwin-for-Japanese-users
-Recommended uBO &amp; uBlacklist filter lists by Kdroidwin for Japanese users
+# おすすめ uBO & uBlacklist 用フィルターリスト（日本語環境向け）
